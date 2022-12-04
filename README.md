@@ -90,6 +90,16 @@ $  cd django-student-management-system
 $  pip install -r requirements.txt
 ```
 
+If mysqlclient can't be installed, it is because the dependencies of mysql are not installed. Install libmysqlclient-dev first.
+
+On Ubuntu
+```shell
+sudo apt-get install update
+sudo apt-get install upgrade
+sudp apt-get install libmysqlclient-dev
+pip install mysqlclient
+```
+
 **5. Add the hosts**
 
 - Got to settings.py file 
@@ -100,7 +110,17 @@ ALLOWED_HOSTS = ['*']
 *No need to change on Mac.*
 
 
-**6. Now Run Server**
+**6. Change Databases**
+
+- Go to settings.py file
+- Then, change the databases settings to yours.
+
+**7. Now Run Server**
+Command for AWS EC2:
+```
+python manage.py runserver <your-private-ip>:8000
+```
+Public for browser: <your-public-ip>:8000
 
 Command for PC:
 ```python

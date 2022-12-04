@@ -120,7 +120,7 @@ Command for AWS EC2:
 ```
 python manage.py runserver <your-private-ip>:8000
 ```
-Public for browser: *<your-public-ip>*:8000
+Public for browser: **your-public-ip**:8000
 
 Command for PC:
 ```python

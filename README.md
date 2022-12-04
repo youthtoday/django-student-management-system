@@ -41,15 +41,6 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 2. Add a Star 🌟  to this 👆 Repository
 
 
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
-
-
 ## How to Install and Run this project?
 
 ### Pre-Requisites:
@@ -149,16 +140,9 @@ Email: admin@gmail.com
 Password: admin
 
 *For Staff*
-Email: staff@gmail.com
-Password: staff
+Email: josephramos@columbia.edu
+Password: josephramos
 
 *For Student*
-Email: student@gmail.com
-Password: student
-
-
-
-## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
-
+Email: lijiehuang@gmail.com
+Password: lijiehuang

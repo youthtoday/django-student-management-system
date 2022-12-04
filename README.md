@@ -116,6 +116,7 @@ ALLOWED_HOSTS = ['*']
 - Then, change the databases settings to yours.
 
 **7. Now Run Server**
+
 Command for AWS EC2:
 ```
 python manage.py runserver <your-private-ip>:8000
